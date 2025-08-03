@@ -10,7 +10,7 @@
    - Install Python Indent extension
 3. **Required Libraries**: Install using command line:
    ```
-   pip install pygame turtle pillow matplotlib numpy requests
+   pip install pygame pillow matplotlib numpy requests
    ```
 4. **Create Project Folder**: `PythonCreativeProjects` on desktop
 5. **Set up Instagram/TikTok accounts** for sharing creations (if desired)
